@@ -1,7 +1,9 @@
 .main_container{
+    width: 100%;
     font-family: 'Raleway', sans-serif;
 }
 
 img#logo-booki {
-    width: 98px;
+    width: 10px;
+    background-color: aqua;
 }
